@@ -1,0 +1,1 @@
+cout<<"Derived class greet invoked"<<endl;
